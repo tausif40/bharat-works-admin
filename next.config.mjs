@@ -32,15 +32,15 @@ function mergeConfig(nextConfig, userConfig) {
 
   for (const key in userConfig) {
     if (
-      typeof nextConfig[key] === 'object' &&
-      !Array.isArray(nextConfig[key])
+      typeof nextConfig[ key ] === 'object' &&
+      !Array.isArray(nextConfig[ key ])
     ) {
-      nextConfig[key] = {
-        ...nextConfig[key],
-        ...userConfig[key],
+      nextConfig[ key ] = {
+        ...nextConfig[ key ],
+        ...userConfig[ key ],
       }
     } else {
-      nextConfig[key] = userConfig[key]
+      nextConfig[ key ] = userConfig[ key ]
     }
   }
 }

@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "The Bharat Works - Admin Panel",
   description: "Admin panel for The Bharat Works home services platform",
-  generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -22,7 +21,5 @@ export default function RootLayout({
     </html>
   )
 }
-
-
 
 import './globals.css'
