@@ -113,11 +113,11 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
     <div className="flex min-h-screen">
       {/* Sidebar for desktop */}
       <div className="hidden lg:flex lg:w-64 lg:flex-col lg:fixed lg:inset-y-0">
-        <div className="flex flex-col flex-grow border-r border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 pt-5 pb-4 overflow-y-auto">
-          <div className="flex items-center flex-shrink-0 px-4 sticky top-0 w-full">
+        <div className="flex flex-col flex-grow border-r border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-900 pb-4 overflow-y-auto navScroll">
+          <div className="flex items-center flex-shrink-0 px-4 sticky top-0 w-full pt-6 pb-3 bg-white dark:bg-gray-900">
             <Link href="/admin" className="flex items-center space-x-2">
               <Home className="h-6 w-6 text-primary" />
-              <span className="text-xl font-bold">The Bharat Works</span>
+              <span className="text-xl font-bold min-w-max">The Bharat Works</span>
             </Link>
           </div>
           <div className="mt-8 flex-grow flex flex-col">
