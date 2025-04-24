@@ -23,7 +23,7 @@ A modern frontend application built with [your tech stack here – e.g., Next.js
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/tausif40/bharat-works-admin.git
 
 # Navigate into the project directory
 cd project-name
