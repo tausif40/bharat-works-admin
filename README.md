@@ -56,5 +56,3 @@ Email - tausif6040@gmail.com
 > ### You can check out my portfolio -  [tausif.portfolio.com](https://tausif-portfolio-pi.vercel.app/)
 
 ---
----
----
