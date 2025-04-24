@@ -1,6 +1,6 @@
 # 🚀 Project Name
 
-A modern frontend application built with [your tech stack here – e.g., React, Next.js, TypeScript, Tailwind CSS]. This project is designed to [briefly describe what your project does].
+A modern frontend application built with [your tech stack here – e.g., Next.js, TypeScript, Tailwind CSS, Shadcn UI]. This project is designed to [briefly describe what your project does].
 
 ## ✨ Features
 
@@ -13,11 +13,11 @@ A modern frontend application built with [your tech stack here – e.g., React, 
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [React / Next.js / Vue / etc.]
+- **Framework:** [Next.js ]
 - **Language:** TypeScript / JavaScript
-- **Styling:** Tailwind CSS / SCSS / CSS Modules
-- **State Management:** Redux / Zustand / Context API (optional)
-- **Other Libraries:** [Any additional libraries used]
+- **Styling:** Tailwind CSS / shadcn UI
+- **State Management:** Redux
+- **Other Libraries:** 
 
 ## 📦 Installation
 
